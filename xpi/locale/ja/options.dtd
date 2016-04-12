@@ -31,13 +31,13 @@
 <!ENTITY Ctr_tabcolors_t	"タブ色 &amp; テキスト">
 
 <!ENTITY Ctr_tabs			"タブ">
-<!ENTITY Ctr_tabs0			"&brandShortName; default (Curved tabs)">
+<!ENTITY Ctr_tabs0			"&brandShortName; デフォルト (角丸タブ)">
 <!ENTITY Ctr_tabs1			"四角いタブ (クラシック)">
 <!ENTITY Ctr_tabs1m			"四角いタブ (Australis化)">
-<!ENTITY Ctr_tabs2			"丸いタブ (別バージョン)">
-<!ENTITY Ctr_tabs3			"丸いタブ (別バージョン Aero)">
-<!ENTITY Ctr_tabforminfo	"タブの見栄えは現在のテーマで制御されます。">
-<!ENTITY Ctr_coltabsinfo	"Tab appearance is not fully compatible to 'ColorfulTabs' add-on!">
+<!ENTITY Ctr_tabs2			"角丸タブ (別バージョン)">
+<!ENTITY Ctr_tabs3			"角丸タブ (別バージョン Aero)">
+<!ENTITY Ctr_tabforminfo	"タブの外観は現在のテーマで制御されます。">
+<!ENTITY Ctr_coltabsinfo	"タブの外観は'ColorfulTabs'とは完全な互換性ありません!">
 <!ENTITY Ctr_tabsontop0		"タブを上にする (デフォルト)">
 <!ENTITY Ctr_tabsontop1		"タブを上にする --- [tabsontop=true] attribute">
 <!ENTITY Ctr_tabsontop2		"タブを下にする (v1) --- [tabsontop=false] attribute">
@@ -48,20 +48,20 @@
 <!ENTITY Ctr_tabwidthdef	"(デフォルト)">
 <!ENTITY Ctr_tabwidthcla	"(クラシック)">
 <!ENTITY Ctr_tabminheight	"高さ:">
-<!ENTITY Ctr_tabheightinfo	"Low values will cause glitches in maximized mode!">
+<!ENTITY Ctr_tabheightinfo	"値が小さいと、最大化モードで不具合を引き起こします!">
 <!ENTITY Ctr_tabmaxwidth	"最大幅:">
 <!ENTITY Ctr_tabminwidth	"最小幅:">
 <!ENTITY Ctr_tabwidthinfo	"タブの最小幅と最大幅は Tab Mix Plus で制御されます。">
 <!ENTITY Ctr_tabwidthinfo2	"タブの最小幅と最大幅は Tab Utilities で制御されます。">
-<!ENTITY Ctr_tabwidthinfo3	"Values below 48px will cause glitches in most cases!">
+<!ENTITY Ctr_tabwidthinfo3	"48px 以下の値は不具合を引き起こします!">
 <!ENTITY Ctr_square_edges	"Squared top corners">
 <!ENTITY Ctr_tttitlebar		"Tab title in &brandShortName; titlebar">
 <!ENTITY Ctr_tabinsertion	"Insert related tab after current tab (about:config設定)">
-<!ENTITY Ctr_emptytfavico	"Show favicon (if a site does not offer one)">
-<!ENTITY Ctr_emptytfavico_n	"None">
+<!ENTITY Ctr_emptytfavico	"ファビコンを表示する (if a site does not offer one)">
+<!ENTITY Ctr_emptytfavico_n	"なし">
 <!ENTITY Ctr_emptytfavico_g	"Generic">
 <!ENTITY Ctr_noemptypticon	"ピン止めタブから空ファビコンを取り除く">
-<!ENTITY Ctr_e10stab_notd	"E10s tabs: remove underline">
+<!ENTITY Ctr_e10stab_notd	"E10s タブ: 下線を取り除く">
 <!ENTITY Ctr_closetab_0		"タブを閉じる">
 <!ENTITY Ctr_closetab_1		"アクティブタブのみ表示">
 <!ENTITY Ctr_closetab_2		"表示しない">
@@ -69,10 +69,10 @@
 <!ENTITY Ctr_closetab_4		"ツールバーの最初に表示">
 <!ENTITY Ctr_closetab_5		"全てのタブ (強制)">
 <!ENTITY Ctr_closetab_hfot	"可視タブに対して隠す">
-<!ENTITY Ctr_closei_def		"Default icons">
+<!ENTITY Ctr_closei_def		"デフォルトアイコン">
 <!ENTITY Ctr_closeonleft	"別の位置に表示">
-<!ENTITY Ctr_closetabbig	"Bigger icon (20x20 px)">
-<!ENTITY Ctr_close_wwltab	"最後の可視タブをもつウィンドウを閉じる (about:config設定)">
+<!ENTITY Ctr_closetabbig	"大きなアイコン (20x20 px)">
+<!ENTITY Ctr_close_wwltab	"最後の可視タブをもつウィンドウを閉じる (about:config 設定)">
 
 <!ENTITY Ctr_hctpinfotab	"Some tab variations are not compatible to 'Hide Caption Titlebar Plus' add-on.">
 <!ENTITY Ctr_hctpinfoab		"Button on titlebar is not compatible to 'Hide Caption Titlebar Plus' add-on.">
@@ -84,8 +84,8 @@
 <!ENTITY Ctr_appbutton2		"&brandShortName; タイトルバーに表示">
 <!ENTITY Ctr_appbutton2h	"&brandShortName; タイトルバーに表示 (hidden)">
 <!ENTITY Ctr_appbutton2io	"&brandShortName; タイトルバーに表示 (アイコンのみ)">
-<!ENTITY Ctr_paneluibtweak	"Display menu button as &brandShortName; button...">
-<!ENTITY Ctr_paneluibtweak2	"Display menu button as &brandShortName; button (icon only)...">
+<!ENTITY Ctr_paneluibtweak	"&brandShortName; ボタンとしてメニューボタンを表示...">
+<!ENTITY Ctr_paneluibtweak2	"&brandShortName; ボタンとしてメニューボタンを表示 (アイコンのみ)...">
 <!ENTITY Ctr_paneluibtweak3	"...when on tabs toolbar">
 <!ENTITY Ctr_appbuttonc_o	"橙色 (デフォルト)">
 <!ENTITY Ctr_appbuttonc_a	"青色 (Aurora)">
@@ -98,7 +98,7 @@
 <!ENTITY Ctr_appbuttonc_pu	"紫色">
 <!ENTITY Ctr_appbuttonc_wh	"白色">
 <!ENTITY Ctr_appbuttonc_cu	"任意の色">
-<!ENTITY Ctr_appbuttonct	"Custom button color for button on toolbar">
+<!ENTITY Ctr_appbuttonct	"ツールバー上のボタンの色">
 <!ENTITY Ctr_appbuttonI1	"再起動を推奨">
 <!ENTITY Ctr_appbuttonI1e	"WindowsのOSタイトルバーには表示されません。&brandShortName;タイトルバー上のみです。">
 <!ENTITY Ctr_appbuttonI2	"ボタン色はタイトルバーとタブツールバーのみに表示されます。">
@@ -115,16 +115,16 @@
 <!ENTITY Ctr_smallnavbut	"ナビゲーションツールバーのボタンを小さくする">
 <!ENTITY Ctr_bfurlbarfix	"URLバーの border-radius を修正する">
 <!ENTITY Ctr_backforward	"戻る-進むボタンを移動可にする">
-<!ENTITY Ctr_nbcompact		"Reduce navigation toolbars height">
+<!ENTITY Ctr_nbcompact		"ナビゲーションツールバーの高さを下げる">
 <!ENTITY Ctr_hide_bf_popup	"マウスを押す時に履歴メニューを隠す">
 <!ENTITY Ctr_bf_space		"(可能であれば) ボタン間のスペースを減らす">
 <!ENTITY Ctr_noconicons		"ラベル(戻る、進む、停止、ブックマーク)をもつページコンテキストメニューアイコンを置換する">
-<!ENTITY Ctr_prefpage		"Options page / window">
+<!ENTITY Ctr_prefpage		"オプション ページ / ウィンドウ">
 <!ENTITY Ctr_altoptionsd	"Default appearance">
 <!ENTITY Ctr_altoptionsp	"Alternative appearance">
-<!ENTITY Ctr_altoptionsw	"Open options page in a window">
-<!ENTITY Ctr_altoptionsww	"Width:">
-<!ENTITY Ctr_altoptionswh	"Height:">
+<!ENTITY Ctr_altoptionsw	"オプションページをウィンドウで開く">
+<!ENTITY Ctr_altoptionsww	"幅:">
+<!ENTITY Ctr_altoptionswh	"高さ:">
 <!ENTITY Ctr_altoptionsi	"The simulated options window is not a dialog anymore but a 'browser window' with all toolbars hidden. The 'Use Current Page' feature only adds urls of pages opened in the current window, which is only 'about:preferences' in this case. The 'options' toolbar button gets replaced by a new one to be able to open options in a window.">
 <!ENTITY Ctr_options_rem	"Remember last selected category">
 <!ENTITY Ctr_svgfilters		"SVG colors for default toolbar button icons">
@@ -141,10 +141,10 @@
 <!ENTITY Ctr_stoprel1		"重要：停止ボタンの後に再読み込みボタンを設置します">
 <!ENTITY Ctr_panelmenucol	"パネルメニューを別の背景色にする">
 <!ENTITY Ctr_hideprivmask	"プライベートブラウジング: マスク表示を隠す">
-<!ENTITY Ctr_navsmallicons	"Small icons">
-<!ENTITY Ctr_navlargeicons	"Large icons">
+<!ENTITY Ctr_navsmallicons	"小さいアイコン">
+<!ENTITY Ctr_navlargeicons	"大きなアイコン">
 <!ENTITY Ctr_nbisizedelay0	"Initialization delay on browser startup">
-<!ENTITY Ctr_nbisizedelay	"ms (1000 ms = 1 sec)">
+<!ENTITY Ctr_nbisizedelay	"ミリ秒 (1000 ミリ秒 = 1 秒)">
 <!ENTITY Ctr_findbar		"検索バー">
 <!ENTITY Ctr_findbar_def	"デフォルト位置">
 <!ENTITY Ctr_findbar_top	"上に表示">
